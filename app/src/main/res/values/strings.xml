@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MasterKey</string>
+    <string name="preference_key">PrefKey</string>
+    <string name="button_count">ButtnCount</string>
+</resources>
